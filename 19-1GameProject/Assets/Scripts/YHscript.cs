@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class YHscript : MonoBehaviour {
-
+    //asdfasdfasdfasdfasdfasdfasdf
 	// Use this for initialization
 	void Start () {
 		
